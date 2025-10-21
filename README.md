@@ -50,6 +50,14 @@ O layout principal (`activity_main.xml`) contém:
 
 ---
 
+## 📸 Demonstração
+
+### Tela inicial
+
+![Figura 1:](/img/img.png)
+
+---
+
 ## 👩‍💻 Autor / Equipe
 
 **Nome:** *Igor Torres Dias*  
